@@ -18,12 +18,8 @@ iOS Calculator is a simple iOS calculator copy yet powerful application designed
 - **Advanced Functions**: Percentage, sign change, and decimal calculations.
 - **Intuitive Interface**: User-friendly design for easy navigation and use.
 - **Real-Time Calculation**: Displays results as you type.
+- **Test Verification.
 
-## Technologies Used
-
-- **Swift**
-- **SwiftUI**
-- **Xcode**
 
 ## Installation
 
