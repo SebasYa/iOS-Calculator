@@ -12,13 +12,15 @@
 
 iOS Calculator is a simple iOS calculator copy yet powerful application designed. It supports basic arithmetic operations as well as advanced functions, providing users with a seamless and intuitive experience.
 
+<img src="https://github.com/SebasYa/iOS-Calculator/blob/main/CalculatorGif.gif" alt="App Demo" width="250"/>
+
 ## Features
 
 - **Basic Arithmetic Operations**: Addition, subtraction, multiplication, and division.
 - **Advanced Functions**: Percentage, sign change, and decimal calculations.
 - **Intuitive Interface**: User-friendly design for easy navigation and use.
 - **Real-Time Calculation**: Displays results as you type.
-- **Test Verification.
+- **Test Verification**.
 
 
 ## Installation
